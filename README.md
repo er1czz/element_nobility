@@ -10,4 +10,4 @@ This content was derived from my project to predict stable phases in inorganic b
 ## Reference
 - Hegde, V. I., Aykol, M., Kirklin, S., & Wolverton, C. (2020). The phase stability network of all inorganic materials. <em>Science Advances</em>, 6(9), eaay5606.
 - Hegde, V. I., Aykol, M., Kirklin, S., & Wolverton, C. (2018). The phase diagram of all inorganic materials. <em>arXiv preprint arXiv:1808.10869.</em>
->>>>>> CC BY 4.0 <<<<<<
+<p> >>>>>> <b> CC BY 4.0 </b> <<<<<<</p>
