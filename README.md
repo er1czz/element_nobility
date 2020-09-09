@@ -9,7 +9,7 @@ The nobility values are listed below the element symbol. Some elements have not 
 This work is part of my project to predict stable phases in inorganic binary systems.
 
 Mapping code [Jupyter Notebook](https://github.com/er1czz/elements/blob/master/mapping_element_nobility.ipynb)   
-Data of Nobility Index [csv](https://github.com/er1czz/elements/blob/master/nobility_index.csv)  
+Nobility index data [csv](https://github.com/er1czz/elements/blob/master/nobility_index.csv)  
 
 ## Reference
 - Hegde, V. I., Aykol, M., Kirklin, S., & Wolverton, C. (2020). The phase stability network of all inorganic materials. <em>Science Advances</em>, 6(9), eaay5606.
