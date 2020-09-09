@@ -14,5 +14,5 @@
 ## Reference
 - Hegde, V. I., Aykol, M., Kirklin, S., & Wolverton, C. (2020). The phase stability network of all inorganic materials. <em>Science Advances</em>, 6(9), eaay5606.
 - Hegde, V. I., Aykol, M., Kirklin, S., & Wolverton, C. (2018). The phase diagram of all inorganic materials. <em>arXiv preprint arXiv:1808.10869.</em>
-- mendeleev [https://github.com/lmmentel/mendeleev](https://github.com/lmmentel/mendeleev)
+- L. M. Mentel, <em>mendeleev</em> - A Python resource for properties of chemical elements, ions and isotopes. , 2014-- . Available at: [https://github.com/lmmentel/mendeleev](https://github.com/lmmentel/mendeleev)
 <p align="center">  >>>>>> <b> CC BY 4.0 </b> <<<<<<</p>
