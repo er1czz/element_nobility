@@ -4,8 +4,8 @@
 - The index value is inversely correlated to the element reactivity. Low value means high reactivity, and vice versa. (e.g. F -2.84 and He 2.94)
 
 <img src="https://github.com/er1czz/element_nobility/blob/master/bokeh_plot.png?raw=true" align = "center" alt="drawing">
-The nobility values are listed below the element symbol. Some elements have not been indexed.  
-
+Nobility values are listed at the bottom of element blocks. Some elements have not been indexed.  
+   
 This work is part of my project to predict stable phases in inorganic binary systems.
 
 Mapping code [Jupyter Notebook](https://github.com/er1czz/elements/blob/master/mapping_element_nobility.ipynb)   
