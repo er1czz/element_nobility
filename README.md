@@ -1,4 +1,5 @@
 # Mapping Element Nobility on Periodic Table
+- This approach can be used to map any elemental attributes on periodic table.
 - Element nobility index was proposed by Hedge et al 2018 and 2020 to quantify the reactivity of inorganic materials.   
 - Nobility index values ranging from -2.84 to 2.94 were calculated through their studies on phase stability network. 
 - The index value is inversely correlated to the element reactivity. Low value means high reactivity, and vice versa. (e.g. F -2.84 and He 2.94)
