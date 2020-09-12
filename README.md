@@ -8,8 +8,8 @@
 
 <img src="https://github.com/er1czz/element_nobility/blob/master/bokeh_plot.png?raw=true" align = "center" alt="drawing">
 
-### Nobility values are listed at the bottom of element blocks. Some elements have not been indexed.  
-
+### Note: 
+- Nobility values are listed at the bottom of element blocks. Some elements have not been indexed.  
 - Mapping code [Jupyter Notebook](https://github.com/er1czz/elements/blob/master/mapping_element_nobility.ipynb)   
 - Nobility index data [csv](https://github.com/er1czz/elements/blob/master/nobility_index.csv)   
 - This work is derived from part of my project on predicting stable phases in inorganic binary systems.
