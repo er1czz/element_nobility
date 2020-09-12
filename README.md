@@ -3,7 +3,7 @@
 - Figure below is the periodic table of element nobility, proposed by Hedge et al 2018 and 2020 to quantify the reactivity of inorganic materials.   
 
 ### Element Nobility
-- Nobility index values ranging from -2.84 to 2.94 were calculated through their studies on phase stability network. 
+- Nobility index values ranging from -2.84 to 2.94 were calculated by studying phase stability network. 
 - The index value is inversely correlated to the element reactivity. Low value means high reactivity, and vice versa. (e.g. F -2.84 and He 2.94)
 
 <img src="https://github.com/er1czz/element_nobility/blob/master/bokeh_plot.png?raw=true" align = "center" alt="drawing">
