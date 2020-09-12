@@ -1,6 +1,6 @@
 # Mapping Element Property on Periodic Table
 - This approach can be used to map any elemental attributes on periodic table.
-- Figure below is an example of element nobility, proposed by Hedge et al 2018 and 2020 to quantify the reactivity of inorganic materials.   
+- Figure below is the periodic table of element nobility, proposed by Hedge et al 2018 and 2020 to quantify the reactivity of inorganic materials.   
 
 ### Element Nobility
 - Nobility index values ranging from -2.84 to 2.94 were calculated through their studies on phase stability network. 
